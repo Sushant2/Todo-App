@@ -4,7 +4,7 @@ This is a normal Todo list app! It's frontend is very normal and its backend bui
 You can create your own list to just like this!
 > "https://gentle-springs-82369.herokuapp.com/UrTodoListName"
 #
-Here: UrTodoListName it can be like Work,Office,School,Secret Task,It all gonna stored in Database n use can view and modify it later too!
+Here: "UrTodoListName" - Can be like Work,Office,School,Secret-Task or anything.It all gonna stored in Database and you can view and modify it later too!
 #
 Examples: 
 1. https://gentle-springs-82369.herokuapp.com/Work
