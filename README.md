@@ -12,3 +12,5 @@ Examples:
 3. https://gentle-springs-82369.herokuapp.com/NetflixEpisodes
 4. https://gentle-springs-82369.herokuapp.com/SuperHero
 #
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
