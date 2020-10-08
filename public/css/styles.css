@@ -1,8 +1,9 @@
 html {
-  background-color: #E4E9FD;
-  background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+  background-color: #1c3599b4;
+  background-image: -webkit-linear-gradient(90deg, #17033abd,#3b3a81da);
   min-height: 1000px;
   font-family: 'helvetica neue';
+
 }
 
 h1 {
@@ -94,3 +95,29 @@ footer {
   color: rgba(0, 0, 0, 0.5);
   text-align: center;
 }
+#Hack{
+  font-size: 150px;
+  font-kerning: normal;
+  color: #9e32a8ee;
+ text-shadow: 5px 5px 10px pink;
+}
+
+#Hack:hover{
+  position: relative; 
+   top: -3px; 
+   left: -3px; 
+   text-shadow: 1px 1px #F1F1F1, 
+                2px 2px #F1F1F1, 
+                3px 3px #F1F1F1, 
+                4px 4px #F1F1F1, 
+                5px 5px #F1F1F1, 
+                6px 6px #F1F1F1;
+}
+
+#ready{
+  font-family: cursive;
+}
+
+
+
+
