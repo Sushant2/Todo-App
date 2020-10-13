@@ -19,7 +19,7 @@ const item3 = new Item({
 
 const defaultItems = [item1, item2, item3];
 
-router.get('/', async function (req, res) {
+router.get('/', function (req, res) {
   Item.find({}, function (err, foundItems) {
     if (foundItems.length === 0) {
       Item.insertMany(defaultItems, function (err) {

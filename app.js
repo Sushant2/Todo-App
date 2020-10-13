@@ -11,7 +11,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
 //Here app.use global middleware is used for connect all routes.
-app.use('/', require('./routes/routes'));
+app.use('/', require('./routes/routers'));
 
 app.get('/about', function (req, res) {
   res.render('about');
